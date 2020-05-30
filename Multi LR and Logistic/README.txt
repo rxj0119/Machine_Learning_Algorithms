@@ -1,6 +1,5 @@
- Name: Shreyash Shrivastava
-ID: 1001397477
-Class: CSE 6363
+Name: Reyansh Jain
+ID: 1001670119
 
 Programming Language Used: Python 3.7 :: Anaconda, Inc.
 --------------------------
